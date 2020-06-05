@@ -1,4 +1,4 @@
-package com.menumaker;
+package com.menumaker.pricelist;
 
 import com.facebook.react.ReactActivity;
 

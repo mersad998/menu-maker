@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
   },
   image: {
     ...StyleSheet.absoluteFillObject,
-    resizeMode: 'c',
+    resizeMode: 'cover',
   },
   title: {
     alignSelf: 'center',
